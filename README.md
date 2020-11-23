@@ -1,5 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?
+username=residualns&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### Hi there 👋
+Hi, I'm Yang Zhenyu 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍.
 <!--
 **ResidualNS/ResidualNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
