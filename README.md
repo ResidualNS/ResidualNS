@@ -4,7 +4,7 @@ Hi!😉 Welcome to my Github!
 My name is Yang Zhenyu😄, graduated from USST, a programmer 💻 from China 🇨🇳. I'm an open-source profession and always develop in Python 🐍.
 - 🌱 I’m currently learning Python and Deeplearning
 - 🤔 I’m pursuing my Master degree.
-- 👯 I’m looking to collaborate on computer vision
+- 👯 I’m looking to collaborate on Deep Learning.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 How to reach me: 382188144@qq.com
 - 😄 Pronouns: friendly sunbeam humour
